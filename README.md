@@ -1,10 +1,10 @@
 # face_detection_VideoVersion
 required libraries
--opencv
+-opencv;
 pip install opencv-python
--imageio
+-imageio;
 pip install imageio
--ffmpeg
+-ffmpeg;
 conda install ffmpeg -c conda-forge
 or
 pip install ffmpeg-python
