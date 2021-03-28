@@ -1,5 +1,5 @@
 # face_detection_VideoVersion
-required libraries
+Required libraries
 -opencv;
 pip install opencv-python
 -imageio;
